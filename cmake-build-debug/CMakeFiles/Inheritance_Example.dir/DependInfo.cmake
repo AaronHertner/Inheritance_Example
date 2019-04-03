@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "C:/Users/Urn Hurnur/Documents/GitHub/Inheritance_Example/InheritExample.cpp" "C:/Users/Urn Hurnur/Documents/GitHub/Inheritance_Example/cmake-build-debug/CMakeFiles/Inheritance_Example.dir/InheritExample.cpp.obj"
+  "C:/Users/Urn Hurnur/Documents/GitHub/Inheritance_Example/BallStorage.cpp" "C:/Users/Urn Hurnur/Documents/GitHub/Inheritance_Example/cmake-build-debug/CMakeFiles/Inheritance_Example.dir/BallStorage.cpp.obj"
   "C:/Users/Urn Hurnur/Documents/GitHub/Inheritance_Example/main.cpp" "C:/Users/Urn Hurnur/Documents/GitHub/Inheritance_Example/cmake-build-debug/CMakeFiles/Inheritance_Example.dir/main.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")

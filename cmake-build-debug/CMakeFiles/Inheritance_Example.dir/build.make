@@ -69,29 +69,29 @@ CMakeFiles/Inheritance_Example.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Inheritance_Example.dir/main.cpp.s"
 	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\Urn Hurnur\Documents\GitHub\Inheritance_Example\main.cpp" -o CMakeFiles\Inheritance_Example.dir\main.cpp.s
 
-CMakeFiles/Inheritance_Example.dir/InheritExample.cpp.obj: CMakeFiles/Inheritance_Example.dir/flags.make
-CMakeFiles/Inheritance_Example.dir/InheritExample.cpp.obj: ../InheritExample.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\Urn Hurnur\Documents\GitHub\Inheritance_Example\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Inheritance_Example.dir/InheritExample.cpp.obj"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Inheritance_Example.dir\InheritExample.cpp.obj -c "C:\Users\Urn Hurnur\Documents\GitHub\Inheritance_Example\InheritExample.cpp"
+CMakeFiles/Inheritance_Example.dir/BallStorage.cpp.obj: CMakeFiles/Inheritance_Example.dir/flags.make
+CMakeFiles/Inheritance_Example.dir/BallStorage.cpp.obj: ../BallStorage.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\Urn Hurnur\Documents\GitHub\Inheritance_Example\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Inheritance_Example.dir/BallStorage.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Inheritance_Example.dir\BallStorage.cpp.obj -c "C:\Users\Urn Hurnur\Documents\GitHub\Inheritance_Example\BallStorage.cpp"
 
-CMakeFiles/Inheritance_Example.dir/InheritExample.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Inheritance_Example.dir/InheritExample.cpp.i"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\Urn Hurnur\Documents\GitHub\Inheritance_Example\InheritExample.cpp" > CMakeFiles\Inheritance_Example.dir\InheritExample.cpp.i
+CMakeFiles/Inheritance_Example.dir/BallStorage.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Inheritance_Example.dir/BallStorage.cpp.i"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\Urn Hurnur\Documents\GitHub\Inheritance_Example\BallStorage.cpp" > CMakeFiles\Inheritance_Example.dir\BallStorage.cpp.i
 
-CMakeFiles/Inheritance_Example.dir/InheritExample.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Inheritance_Example.dir/InheritExample.cpp.s"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\Urn Hurnur\Documents\GitHub\Inheritance_Example\InheritExample.cpp" -o CMakeFiles\Inheritance_Example.dir\InheritExample.cpp.s
+CMakeFiles/Inheritance_Example.dir/BallStorage.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Inheritance_Example.dir/BallStorage.cpp.s"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\Urn Hurnur\Documents\GitHub\Inheritance_Example\BallStorage.cpp" -o CMakeFiles\Inheritance_Example.dir\BallStorage.cpp.s
 
 # Object files for target Inheritance_Example
 Inheritance_Example_OBJECTS = \
 "CMakeFiles/Inheritance_Example.dir/main.cpp.obj" \
-"CMakeFiles/Inheritance_Example.dir/InheritExample.cpp.obj"
+"CMakeFiles/Inheritance_Example.dir/BallStorage.cpp.obj"
 
 # External object files for target Inheritance_Example
 Inheritance_Example_EXTERNAL_OBJECTS =
 
 Inheritance_Example.exe: CMakeFiles/Inheritance_Example.dir/main.cpp.obj
-Inheritance_Example.exe: CMakeFiles/Inheritance_Example.dir/InheritExample.cpp.obj
+Inheritance_Example.exe: CMakeFiles/Inheritance_Example.dir/BallStorage.cpp.obj
 Inheritance_Example.exe: CMakeFiles/Inheritance_Example.dir/build.make
 Inheritance_Example.exe: CMakeFiles/Inheritance_Example.dir/linklibs.rsp
 Inheritance_Example.exe: CMakeFiles/Inheritance_Example.dir/objects1.rsp

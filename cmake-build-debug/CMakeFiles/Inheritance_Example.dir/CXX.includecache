@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Urn Hurnur/Documents/GitHub/Inheritance_Example/Ball.h
+string
+-
+iostream
+-
+
+C:/Users/Urn Hurnur/Documents/GitHub/Inheritance_Example/BallStorage.cpp
+BallStorage.h
+C:/Users/Urn Hurnur/Documents/GitHub/Inheritance_Example/BallStorage.h
+Ball.h
+C:/Users/Urn Hurnur/Documents/GitHub/Inheritance_Example/Ball.h
+string
+-
+iostream
+-
+
+C:/Users/Urn Hurnur/Documents/GitHub/Inheritance_Example/BallStorage.h
+Ball.h
+C:/Users/Urn Hurnur/Documents/GitHub/Inheritance_Example/Ball.h
+Storage.h
+C:/Users/Urn Hurnur/Documents/GitHub/Inheritance_Example/Storage.h
+
+C:/Users/Urn Hurnur/Documents/GitHub/Inheritance_Example/Storage.h
+Ball.h
+C:/Users/Urn Hurnur/Documents/GitHub/Inheritance_Example/Ball.h
+
+C:/Users/Urn Hurnur/Documents/GitHub/Inheritance_Example/main.cpp
+iostream
+-
+string
+-
+BallStorage.h
+C:/Users/Urn Hurnur/Documents/GitHub/Inheritance_Example/BallStorage.h
+Ball.h
+C:/Users/Urn Hurnur/Documents/GitHub/Inheritance_Example/Ball.h
+

@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
   "CMakeFiles/Inheritance_Example.dir/main.cpp.obj"
-  "CMakeFiles/Inheritance_Example.dir/InheritExample.cpp.obj"
+  "CMakeFiles/Inheritance_Example.dir/BallStorage.cpp.obj"
   "Inheritance_Example.pdb"
   "Inheritance_Example.exe"
   "Inheritance_Example.exe.manifest"

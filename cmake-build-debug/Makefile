@@ -122,32 +122,32 @@ Inheritance_Example/fast:
 	$(MAKE) -f CMakeFiles\Inheritance_Example.dir\build.make CMakeFiles/Inheritance_Example.dir/build
 .PHONY : Inheritance_Example/fast
 
-InheritExample.obj: InheritExample.cpp.obj
+BallStorage.obj: BallStorage.cpp.obj
 
-.PHONY : InheritExample.obj
+.PHONY : BallStorage.obj
 
 # target to build an object file
-InheritExample.cpp.obj:
-	$(MAKE) -f CMakeFiles\Inheritance_Example.dir\build.make CMakeFiles/Inheritance_Example.dir/InheritExample.cpp.obj
-.PHONY : InheritExample.cpp.obj
+BallStorage.cpp.obj:
+	$(MAKE) -f CMakeFiles\Inheritance_Example.dir\build.make CMakeFiles/Inheritance_Example.dir/BallStorage.cpp.obj
+.PHONY : BallStorage.cpp.obj
 
-InheritExample.i: InheritExample.cpp.i
+BallStorage.i: BallStorage.cpp.i
 
-.PHONY : InheritExample.i
+.PHONY : BallStorage.i
 
 # target to preprocess a source file
-InheritExample.cpp.i:
-	$(MAKE) -f CMakeFiles\Inheritance_Example.dir\build.make CMakeFiles/Inheritance_Example.dir/InheritExample.cpp.i
-.PHONY : InheritExample.cpp.i
+BallStorage.cpp.i:
+	$(MAKE) -f CMakeFiles\Inheritance_Example.dir\build.make CMakeFiles/Inheritance_Example.dir/BallStorage.cpp.i
+.PHONY : BallStorage.cpp.i
 
-InheritExample.s: InheritExample.cpp.s
+BallStorage.s: BallStorage.cpp.s
 
-.PHONY : InheritExample.s
+.PHONY : BallStorage.s
 
 # target to generate assembly for a file
-InheritExample.cpp.s:
-	$(MAKE) -f CMakeFiles\Inheritance_Example.dir\build.make CMakeFiles/Inheritance_Example.dir/InheritExample.cpp.s
-.PHONY : InheritExample.cpp.s
+BallStorage.cpp.s:
+	$(MAKE) -f CMakeFiles\Inheritance_Example.dir\build.make CMakeFiles/Inheritance_Example.dir/BallStorage.cpp.s
+.PHONY : BallStorage.cpp.s
 
 main.obj: main.cpp.obj
 
@@ -185,9 +185,9 @@ help:
 	@echo ... Inheritance_Example
 	@echo ... edit_cache
 	@echo ... rebuild_cache
-	@echo ... InheritExample.obj
-	@echo ... InheritExample.i
-	@echo ... InheritExample.s
+	@echo ... BallStorage.obj
+	@echo ... BallStorage.i
+	@echo ... BallStorage.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s

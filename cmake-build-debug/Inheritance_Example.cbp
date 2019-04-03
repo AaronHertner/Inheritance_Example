@@ -80,10 +80,16 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="C:/Users/Urn Hurnur/Documents/GitHub/Inheritance_Example/InheritExample.cpp">
+		<Unit filename="C:/Users/Urn Hurnur/Documents/GitHub/Inheritance_Example/Ball.h">
 			<Option target="Inheritance_Example"/>
 		</Unit>
-		<Unit filename="C:/Users/Urn Hurnur/Documents/GitHub/Inheritance_Example/InheritExample.h">
+		<Unit filename="C:/Users/Urn Hurnur/Documents/GitHub/Inheritance_Example/BallStorage.cpp">
+			<Option target="Inheritance_Example"/>
+		</Unit>
+		<Unit filename="C:/Users/Urn Hurnur/Documents/GitHub/Inheritance_Example/BallStorage.h">
+			<Option target="Inheritance_Example"/>
+		</Unit>
+		<Unit filename="C:/Users/Urn Hurnur/Documents/GitHub/Inheritance_Example/Storage.h">
 			<Option target="Inheritance_Example"/>
 		</Unit>
 		<Unit filename="C:/Users/Urn Hurnur/Documents/GitHub/Inheritance_Example/main.cpp">
